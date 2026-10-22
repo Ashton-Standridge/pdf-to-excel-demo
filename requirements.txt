@@ -1,0 +1,6 @@
+pdfplumber
+pypdf
+cryptography
+reportlab
+openpyxl
+pytest

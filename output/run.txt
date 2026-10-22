@@ -1,0 +1,9 @@
+Extracted 15/15 fields -> output/purchase_agreement.xlsx
+
+Milestone                  Days  Due date        Note
+Binding Agreement Date        0  Thu 10/22/2026  
+Earnest Money Due             3  Mon 10/26/2026  Rolled from weekend to Monday
+Due Diligence Period         10  Mon 11/02/2026  Rolled from weekend to Monday
+Appraisal Contingency        17  Mon 11/09/2026  Rolled from weekend to Monday
+Financing Contingency        21  Thu 11/12/2026  
+Closing                      30  Mon 11/23/2026  Rolled from weekend to Monday
